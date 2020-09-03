@@ -1,5 +1,4 @@
 credentials/*.pem
 credentials/*.key
-!credentials/rootCA.pem
-
+node_modules
 qrcode.png
