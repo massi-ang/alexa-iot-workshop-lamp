@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/lab798/aws-alexa-workshop-smarthome-lamp#readme",
   "dependencies": {
-    "aws-iot-device-sdk-v2": "^1.6.0",
+    "aws-iot-device-sdk-v2": "^1.19.1",
     "qrcode": "^1.4.4"
   }
 }
